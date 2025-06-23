@@ -1,2 +1,2 @@
-# mozilla-addons
+# 🦊🧩 mozilla-addons
 Custom Mozilla Addons
